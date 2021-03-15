@@ -53,3 +53,6 @@ root.right.left = Node(6)
 
 print("Level order traversal of binary tree")
 printLevelOrder(root)
+
+# Time Complexity: O(n^2) in worst case.
+# Space Complexity: O(n) in worst case.
