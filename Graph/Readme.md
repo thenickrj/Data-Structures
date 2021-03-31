@@ -2,7 +2,7 @@
 
 ## Contents
 
-* [Introduction](https://github.com/thenickrj/Data-Structures/tree/main/Graph#graph)
+* [Introduction](https://github.com/thenickrj/Data-Structures/blob/main/Graph/Readme.md#what-is-a-graph)
 
 
 ## What is a Graph?
