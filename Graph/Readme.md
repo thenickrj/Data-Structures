@@ -5,6 +5,9 @@
 * [Introduction](https://github.com/thenickrj/Data-Structures/tree/main/Graph#graph)
 
 
+## What is a Graph?
+
+A graph can be defined as group of vertices and edges that are used to connect these vertices. A graph can be seen as a cyclic tree, where the vertices (Nodes) maintain any complex relationship among them instead of having parent child relationship.
 
 <p align="center">
   <a href="https://evilmartians.com/?utm_source=size-limit">
