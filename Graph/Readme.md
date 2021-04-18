@@ -3,6 +3,7 @@
 ## Contents
 
 * [Introduction](https://github.com/thenickrj/Data-Structures/blob/main/Graph/Readme.md#what-is-a-graph)
+* [How to implement a Graph using Dictionary](https://github.com/thenickrj/Data-Structures/blob/main/Graph/Graph%20Implementation%20using%20Dictionary.py)
 
 
 ## What is a Graph?
